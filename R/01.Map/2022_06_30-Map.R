@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggmap)
 library(RColorBrewer)
 # Input data --------------------------------------------------------------####
-BR <- readr::read_tsv("data/12.Mapa/phylum_3")
+BR <- readr::read_tsv("data/01.Map/phylum_3")
 # Transform ---------------------------------------------------------------####
 BR$Latitude<-as.numeric(BR$Latitude)
 BR$Longitude<-as.numeric(BR$Longitude)
