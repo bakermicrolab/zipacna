@@ -7,7 +7,7 @@ Carlton et al.,
 Last updated: July 2022
 
 
-## Metabolic relateness
+## Metabolic potential Scores
 
 Steps to compute [MEBS](https://github.com/valdeanda/mebs) scores in 77 MAGs + references described in the study contained in the <zipacna genomes faa> folder. 
   
@@ -31,9 +31,13 @@ python3 mebs_vis.py zipacna.tsv
 python3 F_MEBS_cluster.py  --all  zipacna.tsv_vis_out/zipacna.tsv_2_cluster_mebs.tsv
 
 ```
- 
   
-4.
+  
+ # Metabolic relateness 
+  
+  
+  
+4. Using the above information, 
   
 
 `Metabolic heatmap`
