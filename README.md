@@ -1,4 +1,10 @@
-# zipacna
+# New globally distributed lineages of Aratimonadetes bacteria capable of acetogenesis
+
+Repository that contain the main data and scripts to compute the supplementary figure from:
+
+Carlton et al., 
+
+Last updated: July 2022
 
 
 
