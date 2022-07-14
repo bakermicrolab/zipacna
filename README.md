@@ -17,5 +17,6 @@ Using the script from the [Useful scripts github repo](https://github.com/valdea
 python3 heatmap.py  -f pdf data_heatmapZipacna.tsv
 ```
 
+![heatmap](./heatmap.png)
 
 ---
