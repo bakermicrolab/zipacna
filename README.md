@@ -1,11 +1,11 @@
-# New globally distributed lineages of Aratimonadetes bacteria capable of acetogenesis
+# Expansion of Armatimonadetes through marine sediment sequencing reveals three classes with unique ecological roles
 
 Repository that contain the main data and scripts to compute the supplementary figure from:
 
 Carlton et al., 
 
 
-`Last updated: July 2022`
+`Last updated: Feb 2023`
 
 
 ## Metabolic potential Scores
@@ -30,7 +30,7 @@ python3 mebs_vis.py zipacna.tsv
 
 ## Metabolic completeness
 
-Using the script from the [Useful scripts github repo](https://github.com/valdeanda/Useful_scripts/blob/master/README.md#heatmap) written by [Dr. Cesar Poot](https://scholar.google.com.mx/citations?user=dwpBCCQAAAAJ&hl=en), we used the output derived from step 2 to generate a hetmap with the completeness of serval metabolic pathways predefined in MEBS 
+Using the script from the [Useful scripts github repo](https://github.com/valdeanda/Useful_scripts/blob/master/README.md#heatmap), we used the output derived from step 2 to generate a hetmap with the completeness of serval metabolic pathways predefined in MEBS 
 
 ```
 python3 heatmap.py  -f pdf data_heatmapZipacna.tsv
